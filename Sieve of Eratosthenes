@@ -1,0 +1,7 @@
+#include <stdio.h>
+
+int main() {
+ bool is_not_prime;
+  printf("%i", is_not_prime);
+  return 0;
+}
